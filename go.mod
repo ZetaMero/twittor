@@ -1,6 +1,6 @@
 module github.com/ZetaMero/twittor
 
-go 1.13
+go 1.12
 
 require(
 
